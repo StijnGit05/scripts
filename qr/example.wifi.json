@@ -1,0 +1,7 @@
+{
+  "ssid": "MyNet",
+  "password": "secret",
+  "security": "WPA",
+  "hidden": false,
+  "out": "wifi.png"
+}

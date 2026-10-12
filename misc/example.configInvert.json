@@ -1,0 +1,4 @@
+{
+    "INPUT_IMAGE": "path/to/your/input.jpg",
+    "OUTPUT_IMAGE": "path/to/your/output.jpg"
+}
